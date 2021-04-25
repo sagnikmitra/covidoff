@@ -1,0 +1,26 @@
+<!DOCTYPE html public "-//w3c//dtd html 3.2//en">
+<html>
+
+<head>
+    <title>(Type a title for your page here)</title>
+    <script language="javascript" src="list.js"></script>
+</head>
+
+<body onload="fillCategory();">
+    <form name="drop_list" method="POST">
+        <select name="Category" onChange="SelectSubCat();">
+        <option value="">Category</option></select
+      >&nbsp;
+      <select name="SubCat" onChange="SelectSubSubCat();">
+        <option value="">SubCat</option></select
+      >&nbsp;
+      <select id="SubSubCat" name="SubSubCat">
+        <option value="">SubSubCat</option>
+      <!-- </select>
+        <select name="Category" onChange="SelectSubCat();">
+        <option value="">Category</option></select
+      >&nbsp; -->
+      <input type="submit" value="Submit" />
+    </form>
+  </body>
+</html>
