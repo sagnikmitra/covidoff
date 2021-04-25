@@ -12,21 +12,21 @@ from PIL import Image
 
 gc = pd.read_excel('state_city_data.xlsx')
 exp = pxl.load_workbook('state_city_data.xlsx')
-sheet2 = exp['Sheet2']
 sheet3 = exp['Sheet3']
+sheet1 = exp['Sheet1']
 
-for i in range(2, 38):
+for i in range(2, 738):
     print("if(document.drop_list.Category.value == '{}'#".format(
-        sheet2.cell(row=i, column=1).value))
+        sheet3.cell(row=i, column=1).value))
     # print('addOption(document.drop_list.Category,"{}","{}",""*'.format(sheet.cell(row=i, column=1).value,
     #       sheet.cell(row=i, column=1).value))
-    for j in range(2, 738):
-        if(sheet2.cell(row=i, column=1).value == sheet3.cell(row=j, column=2).value and sheet2.cell(row=i, column=1).value == sheet3.cell(row=j+1, column=2).value):
-            print('addOption(document.drop_list.SubCat,"{}","{}"*'.format(
-                sheet3.cell(row=j, column=1).value, sheet3.cell(row=j, column=1).value))
-        elif(sheet2.cell(row=i, column=1).value == sheet3.cell(row=j, column=2).value and sheet2.cell(row=i, column=1).value != sheet3.cell(row=j+1, column=2).value):
-            print('addOption(document.drop_list.SubCat,"{}","{}"^'.format(
-                sheet3.cell(row=j, column=1).value, sheet3.cell(row=j, column=1).value))
+    for j in range(2, 5181):
+        if(sheet3.cell(row=i, column=1).value.upper() == sheet1.cell(row=j, column=2).value.upper() and sheet3.cell(row=i, column=1).value.upper() == sheet1.cell(row=j+1, column=2).value.upper()):
+            print('addOption(document.drop_list.SubSubCat,"{}","{}"*'.format(
+                sheet1.cell(row=j, column=1).value, sheet1.cell(row=j, column=1).value))
+        elif(sheet3.cell(row=i, column=1).value.upper() == sheet1.cell(row=j, column=2).value.upper() and sheet3.cell(row=i, column=1).value.upper() != sheet1.cell(row=j+1, column=2).value.upper()):
+            print('addOption(document.drop_list.SubSubCat,"{}","{}"^'.format(
+                sheet1.cell(row=j, column=1).value, sheet1.cell(row=j, column=1).value))
             break
     # print('addOption(document.drop_list.Category,"{}","{}",""*'.format(sheet.cell(row=i, column=1).value,
     # print("^")
