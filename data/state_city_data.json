@@ -28718,2253 +28718,2643 @@
         },
         {
             "Sl": "1877",
-            "City": "Adra",
-            "State": "West Bengal",
-            "District": "Purulia"
-        },
-        {
-            "Sl": "1878",
-            "City": "Ahmadpur",
-            "State": "West Bengal",
-            "District": "Birbhum"
-        },
-        {
-            "Sl": "1879",
-            "City": "Aiho",
-            "State": "West Bengal",
-            "District": "Maldah "
-        },
-        {
-            "Sl": "1880",
-            "City": "Aistala",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "1881",
-            "City": "Alipurduar",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "1882",
-            "City": "Alipurduar Rly.Jnc.",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "1883",
-            "City": "Alpur",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1884",
-            "City": "Amkula",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1885",
-            "City": "Amodghata",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1886",
-            "City": "Amtala",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "1887",
-            "City": "Andul",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1888",
-            "City": "Anksa",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1889",
-            "City": "Ankurhati",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1890",
-            "City": "Anup Nagar",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "1891",
-            "City": "Arambag",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1892",
-            "City": "Argari",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1893",
-            "City": "Arra",
-            "State": "West Bengal",
-            "District": "Purulia"
-        },
-        {
-            "Sl": "1894",
-            "City": "Asansol",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1895",
-            "City": "Ashoknagar Kalyangarh",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1896",
-            "City": "Aurangabad",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "1897",
-            "City": "Bablari Dewanganj",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "1898",
-            "City": "Badhagachhi",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1899",
-            "City": "Baduria",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1900",
-            "City": "Bagnan",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1901",
-            "City": "Baharampur",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "1902",
-            "City": "Bahirgram",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "1903",
-            "City": "Bahula",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1904",
-            "City": "Baidyabati",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1905",
-            "City": "Bairatisal",
-            "State": "West Bengal",
-            "District": "darjeeling "
-        },
-        {
-            "Sl": "1906",
-            "City": "Balaram Pota",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1907",
-            "City": "Balarampur",
-            "State": "West Bengal",
-            "District": "Purulia"
-        },
-        {
-            "Sl": "1908",
-            "City": "Balarampur",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "1909",
-            "City": "Balichak",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "1910",
-            "City": "Ballavpur",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1911",
-            "City": "Bally",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1912",
-            "City": "Bally",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1913",
-            "City": "Balurghat",
-            "State": "West Bengal",
-            "District": "Dakshin Dinajpur"
-        },
-        {
-            "Sl": "1914",
-            "City": "Bamunari",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1915",
-            "City": "Banarhat Tea Garden",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "1916",
-            "City": "Bangaon",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1917",
-            "City": "Bankra",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1918",
             "City": "Bankura",
             "State": "West Bengal",
             "District": "Bankura "
         },
         {
-            "Sl": "1919",
-            "City": "Bansberia",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1920",
-            "City": "Banshra",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1921",
-            "City": "Banupur",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1922",
-            "City": "Bara Bamonia",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1923",
-            "City": "Barabazar",
-            "State": "West Bengal",
-            "District": "Purulia"
-        },
-        {
-            "Sl": "1924",
-            "City": "Baranagar",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1925",
-            "City": "Barasat",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1926",
-            "City": "Barddhaman",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1927",
-            "City": "Barijhati",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1928",
+            "Sl": "1878",
             "City": "Barjora",
             "State": "West Bengal",
             "District": "Bankura "
         },
         {
-            "Sl": "1929",
-            "City": "Barrackpur",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1930",
-            "City": "Barrackpur Cantonment",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1931",
-            "City": "Baruihuda",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "1932",
-            "City": "Baruipur",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "1933",
-            "City": "Basirhat",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1934",
-            "City": "Baska",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1935",
-            "City": "Begampur",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1936",
-            "City": "Beldanga",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "1937",
-            "City": "Beldubi",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1938",
-            "City": "Belebathan",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1939",
+            "Sl": "1879",
             "City": "Beliatore",
             "State": "West Bengal",
             "District": "Bankura "
         },
         {
-            "Sl": "1940",
-            "City": "Bhadreswar",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1941",
-            "City": "Bhandardaha",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1942",
-            "City": "Bhangar Raghunathpur",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "1943",
-            "City": "Bhangri Pratham Khanda",
-            "State": "West Bengal",
-            "District": "Coochbehar "
-        },
-        {
-            "Sl": "1944",
-            "City": "Bhanowara",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1945",
-            "City": "Bhatpara",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1946",
-            "City": "Bholar Dabri",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "1947",
-            "City": "Bidhan Nagar",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1948",
-            "City": "Bikihakola",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1949",
-            "City": "Bilandapur",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "1950",
-            "City": "Bilpahari",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1951",
-            "City": "Bipra  Noapara",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1952",
-            "City": "Birlapur",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "1953",
-            "City": "Birnagar",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "1954",
+            "Sl": "1880",
             "City": "Bishnupur",
             "State": "West Bengal",
             "District": "Bankura "
         },
         {
-            "Sl": "1955",
-            "City": "Bishnupur",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "1956",
-            "City": "Bolpur",
-            "State": "West Bengal",
-            "District": "Birbhum"
-        },
-        {
-            "Sl": "1957",
-            "City": "Bowali",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "1958",
-            "City": "Budge Budge",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "1959",
-            "City": "Cart Road",
-            "State": "West Bengal",
-            "District": "darjeeling "
-        },
-        {
-            "Sl": "1960",
-            "City": "Chachanda",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "1961",
-            "City": "Chak Bankola",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1962",
-            "City": "Chak Bansberia",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1963",
-            "City": "Chak Enayetnagar",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "1964",
-            "City": "Chak Kashipur",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "1965",
-            "City": "Chakapara",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1966",
-            "City": "Chakdaha",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "1967",
-            "City": "Champdani",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1968",
-            "City": "Chamrail",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1969",
-            "City": "Chandannagar",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1970",
-            "City": "Chandpur",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1971",
-            "City": "Chandrakona",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "1972",
-            "City": "Chapari",
-            "State": "West Bengal",
-            "District": "Purulia"
-        },
-        {
-            "Sl": "1973",
-            "City": "Chapui",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1974",
-            "City": "Char Brahmanagar",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "1975",
-            "City": "Char Maijdia",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "1976",
-            "City": "Charka",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "1977",
-            "City": "Chata Kalikapur",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "1978",
-            "City": "Chechakhata",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "1979",
-            "City": "Chelad",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1980",
-            "City": "Chhora",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1981",
-            "City": "Chikrand",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1982",
-            "City": "Chittaranjan",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1983",
-            "City": "Contai",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "1984",
-            "City": "Cooper's Camp",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "1985",
-            "City": "Dafahat",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "1986",
-            "City": "Dainhat",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1987",
-            "City": "Dakshin Baguan",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "1988",
-            "City": "Dakshin Jhapardaha",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "1989",
-            "City": "Dakshin Rajyadharpur",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "1990",
-            "City": "Dalkhola",
-            "State": "West Bengal",
-            "District": "Uttar Dinajpur"
-        },
-        {
-            "Sl": "1991",
-            "City": "Dalurband",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1992",
-            "City": "Darappur",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "1993",
-            "City": "darjeeling",
-            "State": "West Bengal",
-            "District": "darjeeling "
-        },
-        {
-            "Sl": "1994",
-            "City": "Debipur",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1995",
-            "City": "Deuli",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "1996",
-            "City": "Dhakuria",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1997",
-            "City": "Dhandadihi",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "1998",
-            "City": "Dhanyakuria",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "1999",
-            "City": "Dharmapur",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2000",
-            "City": "Dhatrigram",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2001",
-            "City": "Dhuilya",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2002",
-            "City": "Dhulian",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2003",
-            "City": "Dhupguri",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "2004",
-            "City": "Dhusaripara",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2005",
-            "City": "Diamond Harbour",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "2006",
-            "City": "Dignala",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2007",
-            "City": "Dinhata",
-            "State": "West Bengal",
-            "District": "Coochbehar "
-        },
-        {
-            "Sl": "2008",
-            "City": "Domjur",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2009",
-            "City": "Dubrajpur",
-            "State": "West Bengal",
-            "District": "Birbhum"
-        },
-        {
-            "Sl": "2010",
-            "City": "Dumdum",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2011",
-            "City": "Durgapur",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2012",
-            "City": "Durllabhganj",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2013",
-            "City": "Egra",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2014",
-            "City": "Eksara",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2015",
-            "City": "English Bazar",
-            "State": "West Bengal",
-            "District": "Maldah "
-        },
-        {
-            "Sl": "2016",
-            "City": "Falakata",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "2017",
-            "City": "Farrakka Barrage Township",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2018",
-            "City": "Fatellapur",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2019",
-            "City": "Gabberia",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2020",
-            "City": "Gairkata",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "2021",
-            "City": "Gangarampur",
-            "State": "West Bengal",
-            "District": "Dakshin Dinajpur"
-        },
-        {
-            "Sl": "2022",
-            "City": "Garalgachha",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2023",
-            "City": "Garshyamnagar",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2024",
-            "City": "Garulia",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2025",
-            "City": "Gayespur",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2026",
-            "City": "Ghatal",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2027",
-            "City": "Ghorsala",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2028",
-            "City": "Goaljan",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2029",
-            "City": "Goasafat",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2030",
-            "City": "Gobardanga",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2031",
-            "City": "Gopalpur",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2032",
-            "City": "Gopinathpur",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2033",
-            "City": "Gora Bazar",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2034",
-            "City": "Guma",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2035",
-            "City": "Guriahati",
-            "State": "West Bengal",
-            "District": "Coochbehar "
-        },
-        {
-            "Sl": "2036",
-            "City": "Guskara",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2037",
-            "City": "Habra",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2038",
-            "City": "Haldia",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2039",
-            "City": "Haldibari",
-            "State": "West Bengal",
-            "District": "Coochbehar "
-        },
-        {
-            "Sl": "2040",
-            "City": "Halisahar",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2041",
-            "City": "Howrah",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2042",
-            "City": "Harharia Chak",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2043",
-            "City": "Haripur",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2044",
-            "City": "Harishpur",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2045",
-            "City": "Hatgachha",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2046",
-            "City": "Hatsimla",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2047",
-            "City": "Hijuli",
-            "State": "West Bengal",
-            "District": "Purulia"
-        },
-        {
-            "Sl": "2048",
-            "City": "Hindusthan Cables Town",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2049",
-            "City": "Hooghly-Chinsurah",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2050",
-            "City": "Ichhapur Defence  Estate",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2051",
-            "City": "Islampur",
-            "State": "West Bengal",
-            "District": "Uttar Dinajpur"
-        },
-        {
-            "Sl": "2052",
-            "City": "Jafarpur",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2053",
-            "City": "Jagadanandapur",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2054",
-            "City": "Jagadishpur",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2055",
-            "City": "Jagtaj",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2056",
-            "City": "Jala Kendua",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2057",
-            "City": "Jalpaiguri",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "2058",
-            "City": "Jamuria",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2059",
-            "City": "Jangipur",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2060",
-            "City": "Jaygaon",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "2061",
-            "City": "Jaynagar Mazilpur",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "2062",
-            "City": "Jemari",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2063",
-            "City": "Jemari  (J.K. Nagar Township)",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2064",
-            "City": "Jetia",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2065",
-            "City": "Jhalda",
-            "State": "West Bengal",
-            "District": "Purulia"
-        },
-        {
-            "Sl": "2066",
-            "City": "Jhargram",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2067",
-            "City": "Jhorhat",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2068",
-            "City": "Jiaganj Azimganj",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2069",
-            "City": "Jot Kamal",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2070",
-            "City": "Kachu Pukur",
-            "State": "West Bengal",
-            "District": "Maldah "
-        },
-        {
-            "Sl": "2071",
-            "City": "Kajora",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2072",
-            "City": "Kakdihi",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2073",
-            "City": "Kalara",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2074",
-            "City": "Kaliaganj",
-            "State": "West Bengal",
-            "District": "Uttar Dinajpur"
-        },
-        {
-            "Sl": "2075",
-            "City": "Kalimpong",
-            "State": "West Bengal",
-            "District": "darjeeling "
-        },
-        {
-            "Sl": "2076",
-            "City": "Kalna",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2077",
-            "City": "Kalyani",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2078",
-            "City": "Kamarhati",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2079",
-            "City": "Kanaipur",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2080",
-            "City": "Kanchrapara",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2081",
-            "City": "Kandi",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2082",
-            "City": "Kankuria",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2083",
-            "City": "Kantlia",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2084",
-            "City": "Kanyanagar",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "2085",
-            "City": "Karimpur",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2086",
-            "City": "Kasba",
-            "State": "West Bengal",
-            "District": "Uttar Dinajpur"
-        },
-        {
-            "Sl": "2087",
-            "City": "Kasim Bazar",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2088",
-            "City": "Katwa",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2089",
-            "City": "Kaugachhi",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2090",
-            "City": "Kenda",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2091",
-            "City": "Kendra Khottamdi",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2092",
-            "City": "Kendua",
-            "State": "West Bengal",
-            "District": "Maldah "
-        },
-        {
-            "Sl": "2093",
-            "City": "Kesabpur",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2094",
-            "City": "Khagrabari",
-            "State": "West Bengal",
-            "District": "Coochbehar "
-        },
-        {
-            "Sl": "2095",
-            "City": "Khalia",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2096",
-            "City": "Khalor",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2097",
-            "City": "Khandra",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2098",
-            "City": "Khantora",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2099",
-            "City": "Kharagpur",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2100",
-            "City": "Kharagpur Rly. Settlement ",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2101",
-            "City": "Kharar",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2102",
-            "City": "Khardaha",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2103",
-            "City": "Kharimala Khagrabari",
-            "State": "West Bengal",
-            "District": "Coochbehar "
-        },
-        {
-            "Sl": "2104",
-            "City": "Kharsarai",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2105",
-            "City": "Khodarampur",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2106",
-            "City": "Coochbehar",
-            "State": "West Bengal",
-            "District": "Coochbehar "
-        },
-        {
-            "Sl": "2107",
-            "City": "Kodalia",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2108",
-            "City": "Kolaghat",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2109",
-            "City": "Kolkata",
-            "State": "West Bengal",
-            "District": "Kolkata"
-        },
-        {
-            "Sl": "2110",
-            "City": "Konardihi",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2111",
-            "City": "Konnagar",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2112",
-            "City": "Krishnanagar",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2113",
-            "City": "Krishnapur",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2114",
-            "City": "Kshidirpur",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2115",
-            "City": "Kshirpai",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2116",
-            "City": "Kulihanda",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2117",
-            "City": "Kulti",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2118",
-            "City": "Kunustara",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2119",
-            "City": "Kurseong",
-            "State": "West Bengal",
-            "District": "darjeeling "
-        },
-        {
-            "Sl": "2120",
-            "City": "Madanpur",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2121",
-            "City": "Madhusudanpur",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2122",
-            "City": "Madhyamgram",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2123",
-            "City": "Maheshtala",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "2124",
-            "City": "Mahiari",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2125",
-            "City": "Mahira",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2126",
-            "City": "Mainaguri",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "2127",
-            "City": "Makardaha",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2128",
-            "City": "Mal",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "2129",
-            "City": "Mandarbani",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2130",
-            "City": "Manikpur",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2131",
-            "City": "Mansinhapur",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2132",
-            "City": "Maslandapur",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2133",
-            "City": "Mathabhanga",
-            "State": "West Bengal",
-            "District": "Coochbehar "
-        },
-        {
-            "Sl": "2134",
-            "City": "Medinipur",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2135",
-            "City": "Mekliganj",
-            "State": "West Bengal",
-            "District": "Coochbehar "
-        },
-        {
-            "Sl": "2136",
-            "City": "Memari",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2137",
-            "City": "Mirik",
-            "State": "West Bengal",
-            "District": "darjeeling "
-        },
-        {
-            "Sl": "2138",
-            "City": "Monoharpur",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2139",
-            "City": "Mrigala",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2140",
-            "City": "Muragachha",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2141",
-            "City": "Murgathaul",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2142",
-            "City": "Murshidabad",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2143",
-            "City": "Nabadwip",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2144",
-            "City": "Nabagram",
-            "State": "West Bengal",
-            "District": "Purulia"
-        },
-        {
-            "Sl": "2145",
-            "City": "Nabagram Colony",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2146",
-            "City": "Nabgram",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2147",
-            "City": "Nachhratpur Katabari",
-            "State": "West Bengal",
-            "District": "Uttar Dinajpur"
-        },
-        {
-            "Sl": "2148",
-            "City": "Naihati",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2149",
-            "City": "Nasra",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2150",
-            "City": "Natibpur",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2151",
-            "City": "Naupala",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2152",
-            "City": "Nebadhai Duttapukur",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2153",
-            "City": "New Barrackpur",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2154",
-            "City": "Nibra",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2155",
-            "City": "Nokpul",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2156",
-            "City": "North Barrackpur",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2157",
-            "City": "North Dumdum",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2158",
-            "City": "Old Maldah",
-            "State": "West Bengal",
-            "District": "Maldah "
-        },
-        {
-            "Sl": "2159",
-            "City": "Ondal",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2160",
-            "City": "Pairagachha",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2161",
-            "City": "Palashban",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2162",
-            "City": "Panchla",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2163",
-            "City": "Panchpara",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2164",
-            "City": "Pandua",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2165",
-            "City": "Pangachhiya (B)",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2166",
-            "City": "Paniara",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2167",
-            "City": "Panihati",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2168",
-            "City": "Panuhat",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2169",
-            "City": "Par Beliya",
-            "State": "West Bengal",
-            "District": "Purulia"
-        },
-        {
-            "Sl": "2170",
-            "City": "Parashkol",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2171",
-            "City": "Parasia",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2172",
-            "City": "Parbbatipur",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2173",
-            "City": "Paschim  Jitpur",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "2174",
-            "City": "Paschim Punropara",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2175",
-            "City": "Pattabong Tea Garden",
-            "State": "West Bengal",
-            "District": "darjeeling "
-        },
-        {
-            "Sl": "2176",
-            "City": "Patuli",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2177",
-            "City": "Patulia",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2178",
-            "City": "Phulia",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2179",
-            "City": "Podara",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2180",
-            "City": "Prayagpur",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2181",
-            "City": "Pujali",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "2182",
-            "City": "Purba Tajpur",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2183",
-            "City": "Purulia",
-            "State": "West Bengal",
-            "District": "Purulia"
-        },
-        {
-            "Sl": "2184",
-            "City": "Raghudebbati",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2185",
-            "City": "Raghunathchak",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2186",
-            "City": "Raghunathpur",
-            "State": "West Bengal",
-            "District": "Purulia"
-        },
-        {
-            "Sl": "2187",
-            "City": "Raghunathpur (PS-Dankuni)",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2188",
-            "City": "Raghunathpur (PS-Magra)",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2189",
-            "City": "Raigachhi",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2190",
-            "City": "Raiganj",
-            "State": "West Bengal",
-            "District": "Uttar Dinajpur"
-        },
-        {
-            "Sl": "2191",
-            "City": "Rajarhat Gopalpur",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2192",
-            "City": "Rajpur Sonarpur",
-            "State": "West Bengal",
-            "District": "South 24 Parganas"
-        },
-        {
-            "Sl": "2193",
-            "City": "Ramchandrapur",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2194",
-            "City": "Ramjibanpur",
-            "State": "West Bengal",
-            "District": "Medinipur "
-        },
-        {
-            "Sl": "2195",
-            "City": "Ramnagar",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2196",
-            "City": "Rampurhat",
-            "State": "West Bengal",
-            "District": "Birbhum"
-        },
-        {
-            "Sl": "2197",
-            "City": "Ranaghat",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2198",
-            "City": "Raniganj",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2199",
-            "City": "Ratibati",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2200",
-            "City": "Rishra",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2201",
-            "City": "Rishra",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2202",
-            "City": "Ruiya",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2203",
-            "City": "S.T. Power Project Town",
-            "State": "West Bengal",
-            "District": "Purulia"
-        },
-        {
-            "Sl": "2204",
-            "City": "Sadpur",
-            "State": "West Bengal",
-            "District": "North 24 Parganas"
-        },
-        {
-            "Sl": "2205",
-            "City": "Sahajadpur",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2206",
-            "City": "Sahapur",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2207",
-            "City": "Sainthia",
-            "State": "West Bengal",
-            "District": "Birbhum"
-        },
-        {
-            "Sl": "2208",
-            "City": "Salap",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2209",
-            "City": "Sankarpur",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2210",
-            "City": "Sankrail",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2211",
-            "City": "Santipur",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2212",
-            "City": "Santoshpur",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2213",
-            "City": "Sarenga",
-            "State": "West Bengal",
-            "District": "Howrah "
-        },
-        {
-            "Sl": "2214",
-            "City": "Sarpi",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2215",
-            "City": "Satigachha",
-            "State": "West Bengal",
-            "District": "Nadia "
-        },
-        {
-            "Sl": "2216",
-            "City": "Serampore",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2217",
-            "City": "Serpur",
-            "State": "West Bengal",
-            "District": "Murshidabad "
-        },
-        {
-            "Sl": "2218",
-            "City": "Shankhanagar",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2219",
-            "City": "Siduli",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2220",
-            "City": "Siliguri",
-            "State": "West Bengal",
-            "District": "darjeeling "
-        },
-        {
-            "Sl": "2221",
-            "City": "Simla",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2222",
-            "City": "Singur",
-            "State": "West Bengal",
-            "District": "Hooghly "
-        },
-        {
-            "Sl": "2223",
-            "City": "Sirsha",
-            "State": "West Bengal",
-            "District": "Barddhaman "
-        },
-        {
-            "Sl": "2224",
-            "City": "Sobhaganj",
-            "State": "West Bengal",
-            "District": "Jalpaiguri "
-        },
-        {
-            "Sl": "2225",
+            "Sl": "1881",
             "City": "Sonamukhi",
             "State": "West Bengal",
             "District": "Bankura "
         },
         {
-            "Sl": "2226",
-            "City": "Sonatikiri",
+            "Sl": "1882",
+            "City": "Amkula",
             "State": "West Bengal",
-            "District": "North 24 Parganas"
+            "District": "Paschim Bardhaman"
         },
         {
-            "Sl": "2227",
-            "City": "South Dumdum",
+            "Sl": "1883",
+            "City": "Amlajora",
             "State": "West Bengal",
-            "District": "North 24 Parganas"
+            "District": "Paschim Bardhaman"
         },
         {
-            "Sl": "2228",
-            "City": "Srikantabati",
+            "Sl": "1884",
+            "City": "Andal, Paschim Bardhaman",
             "State": "West Bengal",
-            "District": "Murshidabad "
+            "District": "Paschim Bardhaman"
         },
         {
-            "Sl": "2229",
-            "City": "Srirampur",
+            "Sl": "1885",
+            "City": "Arra, Paschim Bardhaman",
             "State": "West Bengal",
-            "District": "Barddhaman "
+            "District": "Paschim Bardhaman"
         },
         {
-            "Sl": "2230",
+            "Sl": "1886",
+            "City": "Asansol",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1887",
+            "City": "Bahula",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1888",
+            "City": "Baidyanathpur, Paschim Bardhaman",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1889",
+            "City": "Baktarnagar",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1890",
+            "City": "Ballavpur",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1891",
+            "City": "Bamunara",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1892",
+            "City": "Banagram, Paschim Bardhaman",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1893",
+            "City": "Banshra",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1894",
+            "City": "Baska, Andal",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1895",
+            "City": "Belebathan",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1896",
+            "City": "Bhanowara",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1897",
+            "City": "Bilpahari",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1898",
+            "City": "Chak Bankola",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1899",
+            "City": "Chapui",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1900",
+            "City": "Chelad",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1901",
+            "City": "Chhora",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1902",
+            "City": "Chinchuria",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1903",
+            "City": "Chittaranjan",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1904",
+            "City": "Dakshin Khanda",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1905",
+            "City": "Dalurband",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1906",
+            "City": "Debipur, India",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1907",
+            "City": "Dignala",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1908",
+            "City": "Domohani",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1909",
+            "City": "Durgapur",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1910",
+            "City": "Egara, Paschim Bardhaman",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1911",
+            "City": "Gopalpur, Paschim Bardhaman",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1912",
+            "City": "Gulzarbagh Ukhra",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1913",
+            "City": "Haripur, Paschim Bardhaman",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1914",
+            "City": "Harishpur",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1915",
+            "City": "Ichhapur, Paschim Bardhaman",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1916",
+            "City": "Jemari (J.K. Nagar Township)",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1917",
+            "City": "Kajora",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1918",
+            "City": "Kanksa",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1919",
+            "City": "Kenda",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1920",
+            "City": "Kendra Khottamdi",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1921",
+            "City": "Khandra",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1922",
+            "City": "Konardihi",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1923",
+            "City": "Kunustara",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1924",
+            "City": "Mahal, Paschim Bardhaman",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1925",
+            "City": "Mahira",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1926",
+            "City": "Majiara",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1927",
+            "City": "Mandarbani",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1928",
+            "City": "Murgathaul",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1929",
+            "City": "Nabaghanapur",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1930",
+            "City": "Nabgram",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1931",
+            "City": "New Kenda",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1932",
+            "City": "Nimsa",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1933",
+            "City": "Palashban",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1934",
+            "City": "Panagarh",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1935",
+            "City": "Pandabeswar",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1936",
+            "City": "Pangachhiya",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1937",
+            "City": "Panuria",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1938",
+            "City": "Parashkol",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1939",
+            "City": "Parasia",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1940",
+            "City": "Prayagpur",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1941",
+            "City": "Raghunathchak",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1942",
+            "City": "Ramnagar, Pandaveswar",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1943",
+            "City": "Ratibati",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1944",
+            "City": "Rupnarayanpur",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1945",
+            "City": "Sahebganj, Paschim Bardhaman",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1946",
+            "City": "Sankarpur, Paschim Bardhaman",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1947",
+            "City": "Sarpi, Paschim Bardhaman",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1948",
+            "City": "Shyamsundarpur, Paschim Bardhaman",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1949",
+            "City": "Siduli",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1950",
+            "City": "Ukhra",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1951",
+            "City": "Sirsha, India",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1952",
+            "City": "Topsi",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1953",
+            "City": "Alipur, Purba Bardhaman",
+            "State": "West Bengal",
+            "District": "Paschim Bardhaman"
+        },
+        {
+            "Sl": "1954",
+            "City": "Bahir Sarbamangala",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1955",
+            "City": "Bardhaman",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1956",
+            "City": "Bud Bud",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1957",
+            "City": "Dainhat",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1958",
+            "City": "Dhatrigram",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1959",
+            "City": "Gangpur",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1960",
+            "City": "Goda, Purba Bardhaman",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1961",
+            "City": "Gopinathpur, West Bengal",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1962",
+            "City": "Guskara",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1963",
+            "City": "Hatsimla",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1964",
+            "City": "Jaluidanga",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1965",
+            "City": "Kalna City",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1966",
+            "City": "Katwa",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1967",
+            "City": "Memari",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1968",
+            "City": "Mirzapur, Bardhaman",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1969",
+            "City": "Nari, Purba Bardhaman",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1970",
+            "City": "Nasratpur",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1971",
+            "City": "Palsit",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1972",
+            "City": "Panuhat",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1973",
+            "City": "Piarinagar",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1974",
+            "City": "Raipur, Purba Bardhaman",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1975",
+            "City": "Saktigarh, Bardhaman",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1976",
+            "City": "Seharabazar",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1977",
+            "City": "Shashpur",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1978",
+            "City": "Sribati",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1979",
+            "City": "Srirampur, Burdwan",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1980",
             "City": "Sukdal",
             "State": "West Bengal",
-            "District": "Barddhaman "
+            "District": "Purba Bardhaman"
         },
         {
-            "Sl": "2231",
+            "Sl": "1981",
+            "City": "Uttar Goara",
+            "State": "West Bengal",
+            "District": "Purba Bardhaman"
+        },
+        {
+            "Sl": "1982",
+            "City": "Bahirgram",
+            "State": "West Bengal",
+            "District": "Medinipur East"
+        },
+        {
+            "Sl": "1983",
+            "City": "Contai",
+            "State": "West Bengal",
+            "District": "Medinipur East"
+        },
+        {
+            "Sl": "1984",
+            "City": "Dakshin Baguan",
+            "State": "West Bengal",
+            "District": "Medinipur East"
+        },
+        {
+            "Sl": "1985",
+            "City": "Egra",
+            "State": "West Bengal",
+            "District": "Medinipur East"
+        },
+        {
+            "Sl": "1986",
+            "City": "Goasafat",
+            "State": "West Bengal",
+            "District": "Medinipur East"
+        },
+        {
+            "Sl": "1987",
+            "City": "Haldia",
+            "State": "West Bengal",
+            "District": "Medinipur East"
+        },
+        {
+            "Sl": "1988",
+            "City": "Kakdihi",
+            "State": "West Bengal",
+            "District": "Medinipur East"
+        },
+        {
+            "Sl": "1989",
+            "City": "Kolaghat",
+            "State": "West Bengal",
+            "District": "Medinipur East"
+        },
+        {
+            "Sl": "1990",
+            "City": "Tamluk",
+            "State": "West Bengal",
+            "District": "Medinipur East"
+        },
+        {
+            "Sl": "1991",
+            "City": "Balichak",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "1992",
+            "City": "Chandrakona",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "1993",
+            "City": "Deuli",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "1994",
+            "City": "Durllabhganj",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "1995",
+            "City": "Ghatal",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "1996",
+            "City": "Kharagpur",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "1997",
+            "City": "Kharagpur Rly. Settlement ",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "1998",
+            "City": "Kharar",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "1999",
+            "City": "Kshirpai",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2000",
+            "City": "Medinipur",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2001",
+            "City": "Ramjibanpur",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2002",
+            "City": "Balichak",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2003",
+            "City": "Chandrakona",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2004",
+            "City": "Deuli",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2005",
+            "City": "Durllabhganj",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2006",
+            "City": "Ghatal",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2007",
+            "City": "Kharagpur",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2008",
+            "City": "Kharagpur Rly. Settlement ",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2009",
+            "City": "Kharar",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2010",
+            "City": "Kshirpai",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2011",
+            "City": "Medinipur",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2012",
+            "City": "Ramjibanpur",
+            "State": "West Bengal",
+            "District": "Medinipur West"
+        },
+        {
+            "Sl": "2013",
+            "City": "Ahmadpur",
+            "State": "West Bengal",
+            "District": "Birbhum"
+        },
+        {
+            "Sl": "2014",
+            "City": "Bolpur",
+            "State": "West Bengal",
+            "District": "Birbhum"
+        },
+        {
+            "Sl": "2015",
+            "City": "Dubrajpur",
+            "State": "West Bengal",
+            "District": "Birbhum"
+        },
+        {
+            "Sl": "2016",
+            "City": "Rampurhat",
+            "State": "West Bengal",
+            "District": "Birbhum"
+        },
+        {
+            "Sl": "2017",
+            "City": "Sainthia",
+            "State": "West Bengal",
+            "District": "Birbhum"
+        },
+        {
+            "Sl": "2018",
             "City": "Suri",
             "State": "West Bengal",
             "District": "Birbhum"
         },
         {
-            "Sl": "2232",
-            "City": "Taherpur",
+            "Sl": "2019",
+            "City": "Bhangri Pratham Khanda",
             "State": "West Bengal",
-            "District": "Nadia "
+            "District": "Coochbehar "
         },
         {
-            "Sl": "2233",
-            "City": "Taki",
+            "Sl": "2020",
+            "City": "Dinhata",
             "State": "West Bengal",
-            "District": "North 24 Parganas"
+            "District": "Coochbehar "
         },
         {
-            "Sl": "2234",
-            "City": "Talbandha",
+            "Sl": "2021",
+            "City": "Guriahati",
             "State": "West Bengal",
-            "District": "North 24 Parganas"
+            "District": "Coochbehar "
         },
         {
-            "Sl": "2235",
-            "City": "Tamluk",
+            "Sl": "2022",
+            "City": "Haldibari",
             "State": "West Bengal",
-            "District": "Medinipur "
+            "District": "Coochbehar "
         },
         {
-            "Sl": "2236",
-            "City": "Tarakeswar",
+            "Sl": "2023",
+            "City": "Khagrabari",
             "State": "West Bengal",
-            "District": "Hooghly "
+            "District": "Coochbehar "
         },
         {
-            "Sl": "2237",
-            "City": "Tentulkuli",
+            "Sl": "2024",
+            "City": "Kharimala Khagrabari",
             "State": "West Bengal",
-            "District": "Howrah "
+            "District": "Coochbehar "
         },
         {
-            "Sl": "2238",
-            "City": "Titagarh",
+            "Sl": "2025",
+            "City": "Coochbehar",
             "State": "West Bengal",
-            "District": "North 24 Parganas"
+            "District": "Coochbehar "
         },
         {
-            "Sl": "2239",
+            "Sl": "2026",
+            "City": "Mathabhanga",
+            "State": "West Bengal",
+            "District": "Coochbehar "
+        },
+        {
+            "Sl": "2027",
+            "City": "Mekliganj",
+            "State": "West Bengal",
+            "District": "Coochbehar "
+        },
+        {
+            "Sl": "2028",
             "City": "Tufanganj",
             "State": "West Bengal",
             "District": "Coochbehar "
         },
         {
-            "Sl": "2240",
-            "City": "Ukhra",
+            "Sl": "2029",
+            "City": "Balurghat",
             "State": "West Bengal",
-            "District": "Barddhaman "
+            "District": "Dakshin Dinajpur"
         },
         {
-            "Sl": "2241",
-            "City": "Uluberia",
+            "Sl": "2030",
+            "City": "Gangarampur",
             "State": "West Bengal",
-            "District": "Howrah "
+            "District": "Dakshin Dinajpur"
         },
         {
-            "Sl": "2242",
+            "Sl": "2031",
+            "City": "Bairatisal",
+            "State": "West Bengal",
+            "District": "darjeeling "
+        },
+        {
+            "Sl": "2032",
+            "City": "Cart Road",
+            "State": "West Bengal",
+            "District": "darjeeling "
+        },
+        {
+            "Sl": "2033",
+            "City": "darjeeling",
+            "State": "West Bengal",
+            "District": "darjeeling "
+        },
+        {
+            "Sl": "2034",
+            "City": "Kalimpong",
+            "State": "West Bengal",
+            "District": "darjeeling "
+        },
+        {
+            "Sl": "2035",
+            "City": "Kurseong",
+            "State": "West Bengal",
+            "District": "darjeeling "
+        },
+        {
+            "Sl": "2036",
+            "City": "Mirik",
+            "State": "West Bengal",
+            "District": "darjeeling "
+        },
+        {
+            "Sl": "2037",
+            "City": "Pattabong Tea Garden",
+            "State": "West Bengal",
+            "District": "darjeeling "
+        },
+        {
+            "Sl": "2038",
+            "City": "Siliguri",
+            "State": "West Bengal",
+            "District": "darjeeling "
+        },
+        {
+            "Sl": "2039",
             "City": "Uttar Bagdogra",
             "State": "West Bengal",
             "District": "darjeeling "
         },
         {
-            "Sl": "2243",
-            "City": "Uttar Durgapur",
+            "Sl": "2040",
+            "City": "Amodghata",
             "State": "West Bengal",
-            "District": "South 24 Parganas"
+            "District": "Hooghly "
         },
         {
-            "Sl": "2244",
-            "City": "Uttar Goara",
+            "Sl": "2041",
+            "City": "Arambag",
             "State": "West Bengal",
-            "District": "Barddhaman "
+            "District": "Hooghly "
         },
         {
-            "Sl": "2245",
-            "City": "Uttar Kalas",
+            "Sl": "2042",
+            "City": "Badhagachhi",
             "State": "West Bengal",
-            "District": "South 24 Parganas"
+            "District": "Hooghly "
         },
         {
-            "Sl": "2246",
-            "City": "Uttar Kamakhyaguri",
+            "Sl": "2043",
+            "City": "Baidyabati",
             "State": "West Bengal",
-            "District": "Jalpaiguri "
+            "District": "Hooghly "
         },
         {
-            "Sl": "2247",
-            "City": "Uttar Latabari",
+            "Sl": "2044",
+            "City": "Bamunari",
             "State": "West Bengal",
-            "District": "Jalpaiguri "
+            "District": "Hooghly "
         },
         {
-            "Sl": "2248",
-            "City": "Uttar Mahammadpur",
+            "Sl": "2045",
+            "City": "Bansberia",
             "State": "West Bengal",
-            "District": "Murshidabad "
+            "District": "Hooghly "
         },
         {
-            "Sl": "2249",
+            "Sl": "2046",
+            "City": "Barijhati",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2047",
+            "City": "Begampur",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2048",
+            "City": "Bhadreswar",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2049",
+            "City": "Chak Bansberia",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2050",
+            "City": "Champdani",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2051",
+            "City": "Chandannagar",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2052",
+            "City": "Chikrand",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2053",
+            "City": "Dakshin Rajyadharpur",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2054",
+            "City": "Dharmapur",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2055",
+            "City": "Garalgachha",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2056",
+            "City": "Hooghly-Chinsurah",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2057",
+            "City": "Kanaipur",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2058",
+            "City": "Kharsarai",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2059",
+            "City": "Kodalia",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2060",
+            "City": "Konnagar",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2061",
+            "City": "Krishnapur",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2062",
+            "City": "Kulihanda",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2063",
+            "City": "Madhusudanpur",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2064",
+            "City": "Monoharpur",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2065",
+            "City": "Mrigala",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2066",
+            "City": "Nabagram Colony",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2067",
+            "City": "Pairagachha",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2068",
+            "City": "Pandua",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2069",
+            "City": "Purba Tajpur",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2070",
+            "City": "Raghunathpur (PS-Dankuni)",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2071",
+            "City": "Raghunathpur (PS-Magra)",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2072",
+            "City": "Rishra",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2073",
+            "City": "Rishra",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2074",
+            "City": "Serampore",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2075",
+            "City": "Shankhanagar",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2076",
+            "City": "Simla",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2077",
+            "City": "Singur",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2078",
+            "City": "Tarakeswar",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2079",
+            "City": "Uttarpara Kotrung",
+            "State": "West Bengal",
+            "District": "Hooghly "
+        },
+        {
+            "Sl": "2080",
+            "City": "Alpur",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2081",
+            "City": "Andul",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2082",
+            "City": "Ankurhati",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2083",
+            "City": "Argari",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2084",
+            "City": "Bagnan",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2085",
+            "City": "Balaram Pota",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2086",
+            "City": "Bally",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2087",
+            "City": "Bally",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2088",
+            "City": "Bankra",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2089",
+            "City": "Banupur",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2090",
+            "City": "Beldubi",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2091",
+            "City": "Bhandardaha",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2092",
+            "City": "Bikihakola",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2093",
+            "City": "Bipra  Noapara",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2094",
+            "City": "Chakapara",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2095",
+            "City": "Chamrail",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2096",
+            "City": "Dakshin Jhapardaha",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2097",
+            "City": "Dhuilya",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2098",
+            "City": "Domjur",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2099",
+            "City": "Eksara",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2100",
+            "City": "Gabberia",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2101",
+            "City": "Howrah",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2102",
+            "City": "Hatgachha",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2103",
+            "City": "Jagadishpur",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2104",
+            "City": "Jala Kendua",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2105",
+            "City": "Jhorhat",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2106",
+            "City": "Kalara",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2107",
+            "City": "Kantlia",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2108",
+            "City": "Kesabpur",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2109",
+            "City": "Khalia",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2110",
+            "City": "Khalor",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2111",
+            "City": "Khantora",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2112",
+            "City": "Mahiari",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2113",
+            "City": "Makardaha",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2114",
+            "City": "Manikpur",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2115",
+            "City": "Mansinhapur",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2116",
+            "City": "Natibpur",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2117",
+            "City": "Naupala",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2118",
+            "City": "Nibra",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2119",
+            "City": "Panchla",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2120",
+            "City": "Panchpara",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2121",
+            "City": "Paniara",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2122",
+            "City": "Podara",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2123",
+            "City": "Raghudebbati",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2124",
+            "City": "Ramchandrapur",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2125",
+            "City": "Sahapur",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2126",
+            "City": "Salap",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2127",
+            "City": "Sankrail",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2128",
+            "City": "Santoshpur",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2129",
+            "City": "Sarenga",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2130",
+            "City": "Tentulkuli",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2131",
+            "City": "Uluberia",
+            "State": "West Bengal",
+            "District": "Howrah "
+        },
+        {
+            "Sl": "2132",
             "City": "Uttar Pirpur",
             "State": "West Bengal",
             "District": "Howrah "
         },
         {
+            "Sl": "2133",
+            "City": "Alipurduar",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2134",
+            "City": "Alipurduar Rly.Jnc.",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2135",
+            "City": "Banarhat Tea Garden",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2136",
+            "City": "Bholar Dabri",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2137",
+            "City": "Chechakhata",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2138",
+            "City": "Dhupguri",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2139",
+            "City": "Falakata",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2140",
+            "City": "Gairkata",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2141",
+            "City": "Jalpaiguri",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2142",
+            "City": "Jaygaon",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2143",
+            "City": "Mainaguri",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2144",
+            "City": "Mal",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2145",
+            "City": "Paschim  Jitpur",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2146",
+            "City": "Sobhaganj",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2147",
+            "City": "Uttar Kamakhyaguri",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2148",
+            "City": "Uttar Latabari",
+            "State": "West Bengal",
+            "District": "Jalpaiguri "
+        },
+        {
+            "Sl": "2149",
+            "City": "Kolkata",
+            "State": "West Bengal",
+            "District": "Kolkata"
+        },
+        {
+            "Sl": "2150",
+            "City": "Aiho",
+            "State": "West Bengal",
+            "District": "Maldah "
+        },
+        {
+            "Sl": "2151",
+            "City": "English Bazar",
+            "State": "West Bengal",
+            "District": "Maldah "
+        },
+        {
+            "Sl": "2152",
+            "City": "Kachu Pukur",
+            "State": "West Bengal",
+            "District": "Maldah "
+        },
+        {
+            "Sl": "2153",
+            "City": "Kendua",
+            "State": "West Bengal",
+            "District": "Maldah "
+        },
+        {
+            "Sl": "2154",
+            "City": "Old Maldah",
+            "State": "West Bengal",
+            "District": "Maldah "
+        },
+        {
+            "Sl": "2155",
+            "City": "Bahirgram",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2156",
+            "City": "Balichak",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2157",
+            "City": "Chandrakona",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2158",
+            "City": "Contai",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2159",
+            "City": "Dakshin Baguan",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2160",
+            "City": "Deuli",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2161",
+            "City": "Durllabhganj",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2162",
+            "City": "Egra",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2163",
+            "City": "Ghatal",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2164",
+            "City": "Goasafat",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2165",
+            "City": "Haldia",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2166",
+            "City": "Jhargram",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2167",
+            "City": "Kakdihi",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2168",
+            "City": "Kharagpur",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2169",
+            "City": "Kharagpur Rly. Settlement ",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2170",
+            "City": "Kharar",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2171",
+            "City": "Kolaghat",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2172",
+            "City": "Kshirpai",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2173",
+            "City": "Medinipur",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2174",
+            "City": "Ramjibanpur",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2175",
+            "City": "Tamluk",
+            "State": "West Bengal",
+            "District": "Medinipur "
+        },
+        {
+            "Sl": "2176",
+            "City": "Anup Nagar",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2177",
+            "City": "Aurangabad",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2178",
+            "City": "Baharampur",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2179",
+            "City": "Beldanga",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2180",
+            "City": "Chachanda",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2181",
+            "City": "Charka",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2182",
+            "City": "Dafahat",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2183",
+            "City": "Dhulian",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2184",
+            "City": "Dhusaripara",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2185",
+            "City": "Farrakka Barrage Township",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2186",
+            "City": "Fatellapur",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2187",
+            "City": "Ghorsala",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2188",
+            "City": "Goaljan",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2189",
+            "City": "Gora Bazar",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2190",
+            "City": "Harharia Chak",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2191",
+            "City": "Jagtaj",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2192",
+            "City": "Jangipur",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2193",
+            "City": "Jiaganj Azimganj",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2194",
+            "City": "Jot Kamal",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2195",
+            "City": "Kandi",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2196",
+            "City": "Kankuria",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2197",
+            "City": "Kasim Bazar",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2198",
+            "City": "Khodarampur",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2199",
+            "City": "Murshidabad",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2200",
+            "City": "Paschim Punropara",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2201",
+            "City": "Sahajadpur",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2202",
+            "City": "Serpur",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2203",
+            "City": "Srikantabati",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2204",
+            "City": "Uttar Mahammadpur",
+            "State": "West Bengal",
+            "District": "Murshidabad "
+        },
+        {
+            "Sl": "2205",
+            "City": "Aistala",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2206",
+            "City": "Bablari Dewanganj",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2207",
+            "City": "Baruihuda",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2208",
+            "City": "Birnagar",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2209",
+            "City": "Chakdaha",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2210",
+            "City": "Char Brahmanagar",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2211",
+            "City": "Char Maijdia",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2212",
+            "City": "Cooper's Camp",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2213",
+            "City": "Darappur",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2214",
+            "City": "Gayespur",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2215",
+            "City": "Gopalpur",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2216",
+            "City": "Jagadanandapur",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2217",
+            "City": "Kalyani",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2218",
+            "City": "Karimpur",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2219",
+            "City": "Krishnanagar",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2220",
+            "City": "Kshidirpur",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2221",
+            "City": "Madanpur",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2222",
+            "City": "Nabadwip",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2223",
+            "City": "Nasra",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2224",
+            "City": "Parbbatipur",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2225",
+            "City": "Phulia",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2226",
+            "City": "Ranaghat",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2227",
+            "City": "Santipur",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2228",
+            "City": "Satigachha",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2229",
+            "City": "Taherpur",
+            "State": "West Bengal",
+            "District": "Nadia "
+        },
+        {
+            "Sl": "2230",
+            "City": "Ashoknagar Kalyangarh",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2231",
+            "City": "Baduria",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2232",
+            "City": "Bangaon",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2233",
+            "City": "Bara Bamonia",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2234",
+            "City": "Baranagar",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2235",
+            "City": "Barasat",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2236",
+            "City": "Barrackpur",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2237",
+            "City": "Barrackpur Cantonment",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2238",
+            "City": "Basirhat",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2239",
+            "City": "Bhatpara",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2240",
+            "City": "Bidhan Nagar",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2241",
+            "City": "Chandpur",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2242",
+            "City": "Dhakuria",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2243",
+            "City": "Dhanyakuria",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2244",
+            "City": "Dumdum",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2245",
+            "City": "Garshyamnagar",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2246",
+            "City": "Garulia",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2247",
+            "City": "Gobardanga",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2248",
+            "City": "Guma",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2249",
+            "City": "Habra",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
             "Sl": "2250",
+            "City": "Halisahar",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2251",
+            "City": "Ichhapur Defence  Estate",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2252",
+            "City": "Jafarpur",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2253",
+            "City": "Jetia",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2254",
+            "City": "Kamarhati",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2255",
+            "City": "Kanchrapara",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2256",
+            "City": "Kaugachhi",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2257",
+            "City": "Khardaha",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2258",
+            "City": "Madhyamgram",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2259",
+            "City": "Maslandapur",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2260",
+            "City": "Muragachha",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2261",
+            "City": "Naihati",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2262",
+            "City": "Nebadhai Duttapukur",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2263",
+            "City": "New Barrackpur",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2264",
+            "City": "Nokpul",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2265",
+            "City": "North Barrackpur",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2266",
+            "City": "North Dumdum",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2267",
+            "City": "Panihati",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2268",
+            "City": "Patulia",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2269",
+            "City": "Raigachhi",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2270",
+            "City": "Rajarhat Gopalpur",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2271",
+            "City": "Ruiya",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2272",
+            "City": "Sadpur",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2273",
+            "City": "Sonatikiri",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2274",
+            "City": "South Dumdum",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2275",
+            "City": "Taki",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2276",
+            "City": "Talbandha",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2277",
+            "City": "Titagarh",
+            "State": "West Bengal",
+            "District": "North 24 Parganas"
+        },
+        {
+            "Sl": "2278",
+            "City": "Adra",
+            "State": "West Bengal",
+            "District": "Purulia"
+        },
+        {
+            "Sl": "2279",
+            "City": "Arra",
+            "State": "West Bengal",
+            "District": "Purulia"
+        },
+        {
+            "Sl": "2280",
+            "City": "Balarampur",
+            "State": "West Bengal",
+            "District": "Purulia"
+        },
+        {
+            "Sl": "2281",
+            "City": "Barabazar",
+            "State": "West Bengal",
+            "District": "Purulia"
+        },
+        {
+            "Sl": "2282",
+            "City": "Chapari",
+            "State": "West Bengal",
+            "District": "Purulia"
+        },
+        {
+            "Sl": "2283",
+            "City": "Hijuli",
+            "State": "West Bengal",
+            "District": "Purulia"
+        },
+        {
+            "Sl": "2284",
+            "City": "Jhalda",
+            "State": "West Bengal",
+            "District": "Purulia"
+        },
+        {
+            "Sl": "2285",
+            "City": "Nabagram",
+            "State": "West Bengal",
+            "District": "Purulia"
+        },
+        {
+            "Sl": "2286",
+            "City": "Par Beliya",
+            "State": "West Bengal",
+            "District": "Purulia"
+        },
+        {
+            "Sl": "2287",
+            "City": "Purulia",
+            "State": "West Bengal",
+            "District": "Purulia"
+        },
+        {
+            "Sl": "2288",
+            "City": "Raghunathpur",
+            "State": "West Bengal",
+            "District": "Purulia"
+        },
+        {
+            "Sl": "2289",
+            "City": "S.T. Power Project Town",
+            "State": "West Bengal",
+            "District": "Purulia"
+        },
+        {
+            "Sl": "2290",
+            "City": "Amtala",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2291",
+            "City": "Balarampur",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2292",
+            "City": "Baruipur",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2293",
+            "City": "Bhangar Raghunathpur",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2294",
+            "City": "Bilandapur",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2295",
+            "City": "Birlapur",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2296",
+            "City": "Bishnupur",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2297",
+            "City": "Bowali",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2298",
+            "City": "Budge Budge",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2299",
+            "City": "Chak Enayetnagar",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2300",
+            "City": "Chak Kashipur",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2301",
+            "City": "Chata Kalikapur",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2302",
+            "City": "Diamond Harbour",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2303",
+            "City": "Jaynagar Mazilpur",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2304",
+            "City": "Kanyanagar",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2305",
+            "City": "Maheshtala",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2306",
+            "City": "Pujali",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2307",
+            "City": "Rajpur Sonarpur",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2308",
+            "City": "Uttar Durgapur",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2309",
+            "City": "Uttar Kalas",
+            "State": "West Bengal",
+            "District": "South 24 Parganas"
+        },
+        {
+            "Sl": "2310",
             "City": "Uttar Raypur",
             "State": "West Bengal",
             "District": "South 24 Parganas"
         },
         {
-            "Sl": "2251",
-            "City": "Uttarpara Kotrung",
+            "Sl": "2311",
+            "City": "Dalkhola",
             "State": "West Bengal",
-            "District": "Hooghly "
+            "District": "Uttar Dinajpur"
+        },
+        {
+            "Sl": "2312",
+            "City": "Islampur",
+            "State": "West Bengal",
+            "District": "Uttar Dinajpur"
+        },
+        {
+            "Sl": "2313",
+            "City": "Kaliaganj",
+            "State": "West Bengal",
+            "District": "Uttar Dinajpur"
+        },
+        {
+            "Sl": "2314",
+            "City": "Kasba",
+            "State": "West Bengal",
+            "District": "Uttar Dinajpur"
+        },
+        {
+            "Sl": "2315",
+            "City": "Nachhratpur Katabari",
+            "State": "West Bengal",
+            "District": "Uttar Dinajpur"
+        },
+        {
+            "Sl": "2316",
+            "City": "Raiganj",
+            "State": "West Bengal",
+            "District": "Uttar Dinajpur"
         }
     ]
 }
