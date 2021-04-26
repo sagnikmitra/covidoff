@@ -10,12 +10,12 @@
   <br /><br />
   <div class="container" style="width:600px;">
    <h2 align="center">JSON - Dynamic Dependent Dropdown List using Jquery and Ajax</h2><br /><br />
-   <select name="country" id="country" class="form-control input-lg">
-    <option value="">Select country</option>
-   </select>
-   <br />
    <select name="state" id="state" class="form-control input-lg">
     <option value="">Select state</option>
+   </select>
+   <br />
+   <select name="district" id="district" class="form-control input-lg">
+    <option value="">Select district</option>
    </select>
    <br />
    <select name="city" id="city" class="form-control input-lg">
@@ -28,16 +28,16 @@
 <script>
 $(document).ready(function(){
 
- load_json_data('country');
+ load_json_data('state');
 
- function load_json_data(Sl, parent_id)
+ function load_json_data(sl, parent_id)
  {
   var html_code = '';
-  $.getJSON('https://github.com/sagnikmitra/covidoff/blob/main/data/state_city_data.json', function(data){
+  $.getJSON('data.json', function(data){
 
-   html_code += '<option value="">Select '+id+'</option>';
+   html_code += '<option value="">Select '+sl+'</option>';
    $.each(data, function(key, value){
-    if(id == 'country')
+    if(id == 'state')
     {
      if(value.parent_id == '0')
      {
@@ -57,23 +57,23 @@ $(document).ready(function(){
 
  }
 
- $(document).on('change', '#country', function(){
-  var country_id = $(this).val();
-  if(country_id != '')
-  {
-   load_json_data('state', country_id);
-  }
-  else
-  {
-   $('#state').html('<option value="">Select state</option>');
-   $('#city').html('<option value="">Select city</option>');
-  }
- });
  $(document).on('change', '#state', function(){
   var state_id = $(this).val();
   if(state_id != '')
   {
-   load_json_data('city', state_id);
+   load_json_data('district', state_id);
+  }
+  else
+  {
+   $('#district').html('<option value="">Select district</option>');
+   $('#city').html('<option value="">Select city</option>');
+  }
+ });
+ $(document).on('change', '#district', function(){
+  var district_id = $(this).val();
+  if(district_id != '')
+  {
+   load_json_data('city', district_id);
   }
   else
   {
