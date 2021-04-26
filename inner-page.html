@@ -118,26 +118,20 @@
         fillCategory();
     </script>
 
-    <!-- <form name="submit-to-google-sheet " method="POST ">
+    <form name="submit-to-google-sheet" method="POST ">
         <input name="email " type="email " placeholder="Email " required>
         <input name="firstName " type="text " placeholder="First Name ">
         <input name="lastName " type="text " placeholder="Last Name ">
-        <select name="Category " onChange="SelectSubCat(); ">
-            <option value=" ">Select State</option></select>&nbsp;
-        <select id="SubCat " name="SubCat ">
-            <option value=" ">SubSubCat</option>
-          </select>
         <button type="submit ">Send</button>
-    </form> -->
+    </form>
 
-    <!-- <script src="https://wzrd.in/standalone/formdata-polyfill "></script>
+    <script src="https://wzrd.in/standalone/formdata-polyfill "></script>
     <script src="https://wzrd.in/standalone/promise-polyfill@latest "></script>
-    <script src="https://wzrd.in/standalone/whatwg-fetch@latest "></script> -->
-
+    <script src="https://wzrd.in/standalone/whatwg-fetch@latest "></script>
 
     <script>
         const scriptURL = 'https://script.google.com/macros/s/AKfycbzDQfjVSPaC5QzS6auZ5gD6CnobD7cTL89K5iptgcZrvT59ilDuHa4uRG-k--o6TKa1-A/exec'
-        const form = document.forms['drop_list']
+        const form = document.forms['submit-to-google-sheet']
 
         form.addEventListener('submit', e => {
             e.preventDefault()
