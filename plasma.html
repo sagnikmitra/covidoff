@@ -223,25 +223,25 @@
                         <div class="col-md-4 form-group">
                             <!-- <select id="SubCat" name="Select District" class="form-control">
                             <option value="">Select District</option></select> -->
-                            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email (Optional)" data-rule="email" data-msg="Please enter a valid email">
+                            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email (Optional)" data-rule="email">
                             <div class="validate"></div>
                         </div>
                         <div class="col-md-4 form-group">
                             <!-- <select name="Category" class="form-control" onChange="SelectSubCat();">
                             <option value="">Select State</option></select> -->
-                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" required>
                             <div class="validate"></div>
                         </div>
 
 
                         <div class="col-md-4 form-group">
-                            <input type="text" class="form-control" onkeypress="return isNumber(event);" name="phone" id="phone" placeholder="Your Phone" data-rule="minlen:10" data-msg="Please enter valid Phone Number without Country Code">
+                            <input type="number" class="form-control" onkeypress="return isNumber(event);" name="phone" id="phone" placeholder="Your Phone" data-rule="minlen:10" data-msg="Please enter valid Phone Number without Country Code" required>
                             <div class="validate"></div>
                         </div>
                     </div>
                     <div class="form-row">
                         <div class="col-md-4 form-group">
-                            <select name="gender" id="department" class="form-control">
+                            <select name="gender" id="department" class="form-control" required>
                                 <option value="">Select Gender</option>
                                 <option value="Male">Male</option>
                                 <option value="Female">Female</option>
@@ -250,7 +250,7 @@
                             <div class="validate"></div>
                         </div>
                         <div class="col-md-4 form-group">
-                            <input type="number" class="form-control" onkeypress="return isNumber(event);" name="age" id="phone" placeholder="Age" data-rule="maxlen:2" data-msg="Enter Valid Age">
+                            <input type="number" class="form-control" onkeypress="return isNumber(event);" name="age" id="phone" placeholder="Age" data-rule="maxlen:2" data-msg="Enter Valid Age" required>
                             <div class="validate"></div>
                         </div>
                         <div class="col-md-4 form-group">
@@ -272,14 +272,14 @@
                     <div class="form-row">
 
                         <div class="col-md-4 form-group">
-                            <select name="Category" class="form-control" onChange="SelectSubCat();">
+                            <select name="Category" class="form-control" onChange="SelectSubCat();" required>
                             <option value="">Select State</option></select>
                             <!-- <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars"> -->
                             <div class="validate"></div>
                         </div>
 
                         <div class="col-md-4 form-group">
-                            <select id="SubCat" name="selectDistrict" class="form-control">
+                            <select id="SubCat" name="selectDistrict" class="form-control" required>
                             <option value="">Select District</option></select>
                             <!-- <input type="email" class="form-control" name="email" id="email" placeholder="Your Email (Optional)" data-rule="email" data-msg="Please enter a valid email"> -->
                             <div class="validate"></div>
