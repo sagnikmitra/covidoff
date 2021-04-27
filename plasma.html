@@ -8,7 +8,19 @@
     <title>CovidOff</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
-
+    <script>
+        function fun() {
+            document.getElementById('email').value = '';
+            document.getElementById('name').value = '';
+            document.getElementById('phone').value = '';
+            document.getElementById('gender').value = '';
+            document.getElementById('age').value = '';
+            document.getElementById('bloodgroup').value = '';
+            document.getElementById('state').value = '';
+            document.getElementById('SubCat').value = '';
+            document.getElementById('Cities').value = '';
+        }
+    </script>
     <!-- Templated Favicons -->
     <!-- <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
@@ -241,7 +253,7 @@
                     </div>
                     <div class="form-row">
                         <div class="col-md-4 form-group">
-                            <select name="gender" id="department" class="form-control" required>
+                            <select name="gender" id="gender" class="form-control" required>
                                 <option value="">Select Gender</option>
                                 <option value="Male">Male</option>
                                 <option value="Female">Female</option>
@@ -250,11 +262,11 @@
                             <div class="validate"></div>
                         </div>
                         <div class="col-md-4 form-group">
-                            <input type="number" class="form-control" onkeypress="return isNumber(event);" name="age" id="phone" placeholder="Age" data-rule="maxlen:2" data-msg="Enter Valid Age" required>
+                            <input type="number" class="form-control" onkeypress="return isNumber(event);" name="age" id="age" placeholder="Age" data-rule="maxlen:2" data-msg="Enter Valid Age" required>
                             <div class="validate"></div>
                         </div>
                         <div class="col-md-4 form-group">
-                            <select name="bloodGroup" id="department" class="form-control" required>
+                            <select name="bloodGroup" id="bloodgroup" class="form-control" required>
                                 <option value="">Select Blood Group</option>
                                 <option value="A+">A+</option>
                                 <option value="A-">A-</option>
@@ -272,7 +284,7 @@
                     <div class="form-row">
 
                         <div class="col-md-4 form-group">
-                            <select name="Category" class="form-control" onChange="SelectSubCat();" required>
+                            <select name="Category" id="state" class="form-control" onChange="SelectSubCat();" required>
                             <option value="">Select State</option></select>
                             <!-- <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars"> -->
                             <div class="validate"></div>
@@ -783,104 +795,11 @@
                     <script>
                         fillCategory();
                     </script>
-                    <!-- <a href="">If you are from West Bengal, you can even select your City (Optional)</a>
-                    <div class="form-row">
-                        <div class="col-md-4 form-group">
-                            <select name="Districts" class="form-control" onChange="SelectCities();">
-                            <option value="">Select District (For West Bengal)</option></select>
-                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
-                            <div class="validate"></div>
-                        </div>
-
-                        <div class="col-md-4 form-group">
-                            <select id="Cities" name="selectCity" class="form-control">
-                            <option value="">Select City (For West Bengal)</option></select>
-                            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email (Optional)" data-rule="email" data-msg="Please enter a valid email">
-                            <div class="validate"></div>
-                        </div>
-                        
-                    </div>
-                    <script>
-                        fillDistricts();
-                    </script> -->
-                    <!-- <div class="form-row">
-                        <div class="col-md-4 form-group">
-                            <select name="firstName" id="department" class="form-control">
-                                <option value="">Select State</option>
-                                <option value="Department 1">Department 1</option>
-                                <option value="Department 2">Department 2</option>
-                                <option value="Department 3">Department 3</option>
-                            </select>
-                            <div class="validate"></div>
-                        </div>
-                        <div class="col-md-4 form-group">
-                            <select name="lastName" id="department" class="form-control">
-                                <option value="">Select District</option>
-                                <option value="Department 1">Department 1</option>
-                                <option value="Department 2">Department 2</option>
-                                <option value="Department 3">Department 3</option>
-                            </select>
-                            <div class="validate"></div>
-                        </div> -->
-                    <!-- <div class="col-md-4 form-group">
-                            <select name="doctor" id="doctor" class="form-control">
-                                <option value="">Select City</option>
-                                <option value="Doctor 1">Doctor 1</option>
-                                <option value="Doctor 2">Doctor 2</option>
-                                <option value="Doctor 3">Doctor 3</option>
-                            </select>
-                            <div class="validate"></div>
-                        </div> -->
-                    <!-- </div>
-                    <div class="form-row">
-                        <div class="col-md-4 form-group">
-                            <select name="firstName" id="department" class="form-control">
-                                <option value="">Select State</option>
-                                <option value="Department 1">Department 1</option>
-                                <option value="Department 2">Department 2</option>
-                                <option value="Department 3">Department 3</option>
-                            </select>
-                            <div class="validate"></div>
-                        </div>
-                        <div class="col-md-4 form-group">
-                            <select name="lastName" id="department" class="form-control">
-                                <option value="">Select District</option>
-                                <option value="Department 1">Department 1</option>
-                                <option value="Department 2">Department 2</option>
-                                <option value="Department 3">Department 3</option>
-                            </select>
-                            <div class="validate"></div>
-                        </div> -->
-                    <!-- <div class="col-md-4 form-group">
-                            <select name="doctor" id="doctor" class="form-control">
-                                <option value="">Select City</option>
-                                <option value="Doctor 1">Doctor 1</option>
-                                <option value="Doctor 2">Doctor 2</option>
-                                <option value="Doctor 3">Doctor 3</option>
-                            </select>
-                            <div class="validate"></div>
-                        </div> -->
-                    <!-- </div> -->
-                    <!-- <div class="form-group">
-                        <textarea class="form-control" name="message" rows="5" placeholder="Message (Optional)"></textarea>
-                        <div class="validate"></div>
-                    </div> -->
-                    <div class="text-center"><button type="submit">Make an Appointment</button></div>
-                    <script>
-                        $('form').on('submit', function() {
-                            alert('submitted');
-                        });
-                    </script>
-                    <!-- <div class="mb-3">
-                        <div class="loading">Loading</div>
-                        <div class="error-message"></div>
-                        <div class="sent-message">Your appointment request has been sent successfully. Thank you!</div>
-                    </div>
-                    <div class="text-center"><button type="submit">Make an Appointment</button></div> -->
+                    <div class="text-center"><button type="submit">Submit Details</button></div>
                 </form>
-                <script src="https://wzrd.in/standalone/formdata-polyfill "></script>
+                <!-- <script src="https://wzrd.in/standalone/formdata-polyfill "></script>
                 <script src="https://wzrd.in/standalone/promise-polyfill@latest "></script>
-                <script src="https://wzrd.in/standalone/whatwg-fetch@latest "></script>
+                <script src="https://wzrd.in/standalone/whatwg-fetch@latest "></script> -->
 
 
                 <script>
