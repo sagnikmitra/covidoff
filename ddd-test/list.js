@@ -1,6 +1,5 @@
 function fillCategory() {
     // this function is used to fill the category list on load
-    addOption(document.drop_list.Category, "WEST BENGAL", "WEST BENGAL", "");
     addOption(document.drop_list.Category, "ANDAMAN AND NICOBAR ISLANDS", "ANDAMAN AND NICOBAR ISLANDS", "");
     addOption(document.drop_list.Category, "ANDHRA PRADESH", "ANDHRA PRADESH", "");
     addOption(document.drop_list.Category, "ARUNACHAL PRADESH", "ARUNACHAL PRADESH", "");
@@ -36,7 +35,7 @@ function fillCategory() {
     addOption(document.drop_list.Category, "TRIPURA", "TRIPURA", "");
     addOption(document.drop_list.Category, "UTTARAKHAND", "UTTARAKHAND", "");
     addOption(document.drop_list.Category, "UTTAR PRADESH", "UTTAR PRADESH", "");
-
+    addOption(document.drop_list.Category, "WEST BENGAL", "WEST BENGAL", "");
 
 }
 
