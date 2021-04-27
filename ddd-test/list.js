@@ -36,6 +36,7 @@ function fillCategory() {
     addOption(document.drop_list.Category, "TRIPURA", "TRIPURA", "");
     addOption(document.drop_list.Category, "UTTARAKHAND", "UTTARAKHAND", "");
     addOption(document.drop_list.Category, "UTTAR PRADESH", "UTTAR PRADESH", "");
+    addOption(document.drop_list.Category, "WEST BENGAL", "WEST BENGAL", "");
 
 
 }
