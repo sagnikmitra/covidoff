@@ -575,6 +575,12 @@ section {
     padding-bottom: 30px;
 }
 
+@media (max-width: 992px) {
+    .section-title {
+        margin-top: -230px;
+    }
+}
+
 .section-title h2 {
     font-size: 32px;
     font-weight: bold;
@@ -1809,12 +1815,20 @@ section {
     text-decoration: none;
 }
 
+
 /*--------------------------------------------------------------
 # iframes
 --------------------------------------------------------------*/
 
+
 /* .innerpage-iframe { */
-    /* position: relative; */
-    /* padding-bottom: 56.25%;
+
+
+/* position: relative; */
+
+
+/* padding-bottom: 56.25%;
     padding-top: 35px; */
+
+
 /* } */
