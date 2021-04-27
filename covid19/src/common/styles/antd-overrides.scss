@@ -1,0 +1,45 @@
+@import "common/styles/_base.scss";
+
+.ant-input {
+  background-color: $color-surface;
+  color: $color-foreground;
+}
+
+.ant-select {
+  &:not(.ant-select-customize-input) {
+    .ant-select-selector {
+      background-color: $color-surface;
+      color: $color-foreground;
+    }
+  }
+
+  .ant-select-arrow {
+    color: $color-foreground;
+  }
+}
+
+.ant-table {
+  .ant-table-container {
+    .ant-table-content {
+      .ant-table-thead {
+        .ant-table-cell {
+          font-weight: $type-bold;
+          background-color: $color-surface;
+          border-bottom: 1px solid $color-stroke;
+
+          &.ant-table-cell-fix-right {
+            border-left: 1px solid $color-stroke;
+          }
+        }
+      }
+
+      .ant-table-tbody {
+        .ant-table-cell {
+          &.ant-table-cell-fix-right {
+            border-left: 1px solid $color-stroke;
+          }
+        }
+      }
+    }
+  }
+}
