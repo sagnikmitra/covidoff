@@ -1221,6 +1221,9 @@ section {
 }
 
 @media (max-width: 992px) {
+    .departments {
+        padding-top: 230px;
+    }
     .departments .nav-link {
         border: 0;
         padding: 15px;
@@ -1328,6 +1331,12 @@ section {
     margin-left: 8px;
 }
 
+@media (max-width:992px) {
+    .doctors {
+        padding-top: 230px;
+    }
+}
+
 
 /*--------------------------------------------------------------
 # Frequently Asked Questions
@@ -1406,6 +1415,12 @@ section {
 }
 
 @media (max-width: 1200px) {
+    .faq {
+        padding-top: 270px;
+        padding-right: 0px;
+        padding-left: 0px;
+        padding-bottom: 0px;
+    }
     .faq .faq-list {
         padding: 0;
     }
