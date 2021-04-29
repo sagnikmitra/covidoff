@@ -1851,6 +1851,12 @@ section {
     background: #1c84e3;
 }
 
+@media (max-width: 992px) {
+    .contact {
+        padding-top: 230px;
+    }
+}
+
 @-webkit-keyframes animate-loading {
     0% {
         transform: rotate(0deg);
