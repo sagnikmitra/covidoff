@@ -208,7 +208,7 @@ h6 {
     border-radius: 50px;
     border: none;
     letter-spacing: 1px;
-    margin-left: 40px;
+    margin-left: 20px;
     margin-right: 5px;
     display: inline-block;
 }
@@ -228,6 +228,15 @@ h6 {
     .img-nav {
         margin-left: -20px;
     }
+}
+
+.img-nav {
+    margin-left: -40px;
+    margin-right: -40px;
+}
+
+.nav-menu {
+    margin-left: -40px;
 }
 
 .dropdown-content-nav {
