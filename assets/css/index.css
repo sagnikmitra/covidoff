@@ -63,6 +63,16 @@ h6 {
     animation: animate-preloader 1s linear infinite;
 }
 
+@media (max-width: 992px) {
+    .logo-home-top {
+        position: relative;
+        height: 5%;
+        width: 25%;
+        padding-right: 100px;
+        /* margin-top: -100px; */
+    }
+}
+
 @-webkit-keyframes animate-preloader {
     0% {
         transform: rotate(0deg);
@@ -252,6 +262,7 @@ h6 {
     .dropbtn-nav {
         margin: 0 48px 0 0;
         padding: 6px 18px;
+        margin-left: 110px !important;
     }
 }
 
