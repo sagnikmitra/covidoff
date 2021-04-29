@@ -1694,6 +1694,16 @@ section {
     }
 }
 
+.twitter-timeline {
+    margin-left: 70px;
+}
+
+@media (max-width: 992px) {
+    .twitter-timeline {
+        margin-left: -2px;
+    }
+}
+
 
 /*--------------------------------------------------------------
 # Gallery
