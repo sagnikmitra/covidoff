@@ -878,23 +878,29 @@
 
                     <div class="col-lg-8 mt-5 mt-lg-0">
 
-                        <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                        <form name="submit-to-google-sheet" action="forms/contact.php" method="post" role="form" class="php-email-form">
                             <div class="form-row">
                                 <div class="col-md-6 form-group">
-                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" required/>
                                     <div class="validate"></div>
                                 </div>
                                 <div class="col-md-6 form-group">
-                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                                    <div class="validate"></div>
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email"/>
+                                    <!-- <div class="validate"></div> -->
                                 </div>
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                                <select name="suggestion" id="suggestion" class="form-control" required>
+                                    <option value="">Types of Suggestion</option>
+                                    <option value="Bug Report">Bug Report</option>
+                                    <option value="Feature Suggestion">Feature Suggestion</option>
+                                    <option value="General Helpline">General Helpline</option>
+                                     <option value="Others">Others</option>
+                                </select>
                                 <div class="validate"></div>
                             </div>
                             <div class="form-group">
-                                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message" required></textarea>
                                 <div class="validate"></div>
                             </div>
                             <div class="mb-3">
@@ -904,6 +910,18 @@
                             </div>
                             <div class="text-center"><button type="submit">Send Message</button></div>
                         </form>
+
+                        <script>
+                            const scriptURL = 'https://script.google.com/macros/s/AKfycbx5wc0VyRKeE-7M2KmBtHORj0iapA6WC4gHyW1Lhlqoe1ltJCVJJOrub-f2fp7zmojv/exec'
+                            const form = document.forms['submit-to-google-sheet']
+                          
+                            form.addEventListener('submit', e => {
+                              e.preventDefault()
+                              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                                .then(response => console.log('Success!', response))
+                                .catch(error => console.error('Error!', error.message))
+                            })
+                          </script>
 
                     </div>
 
