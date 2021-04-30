@@ -147,6 +147,8 @@
                     <a href="plasma.html">Plasma</a>
                     <a href="oxygen.html">Oxygen</a>
                     <a href="bed-availability.html">Bed Details</a>
+                    <a href="remdesivr.html">Remdesivr</a>
+                    <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19#:~:text=symptoms">Do I have Covid Symptoms?</a>
                     <a href="#about">How to use the Website</a>
                 </div>
             </div>
@@ -885,7 +887,7 @@
                                     <div class="validate"></div>
                                 </div>
                                 <div class="col-md-6 form-group">
-                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email"/>
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" />
                                     <!-- <div class="validate"></div> -->
                                 </div>
                             </div>
@@ -914,14 +916,17 @@
                         <script>
                             const scriptURL = 'https://script.google.com/macros/s/AKfycbx5wc0VyRKeE-7M2KmBtHORj0iapA6WC4gHyW1Lhlqoe1ltJCVJJOrub-f2fp7zmojv/exec'
                             const form = document.forms['submit-to-google-sheet']
-                          
+
                             form.addEventListener('submit', e => {
-                              e.preventDefault()
-                              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-                                .then(response => console.log('Success!', response))
-                                .catch(error => console.error('Error!', error.message))
+                                e.preventDefault()
+                                fetch(scriptURL, {
+                                        method: 'POST',
+                                        body: new FormData(form)
+                                    })
+                                    .then(response => console.log('Success!', response))
+                                    .catch(error => console.error('Error!', error.message))
                             })
-                          </script>
+                        </script>
 
                     </div>
 
